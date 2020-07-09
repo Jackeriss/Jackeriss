@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=Jackeriss)
+![访客数：](https://visitor-badge.glitch.me/badge?page_id=Jackeriss)
