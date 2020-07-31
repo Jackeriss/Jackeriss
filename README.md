@@ -2,10 +2,10 @@
 
 #### Backend Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/Jackeriss/)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&link=https://github.com/Jackeriss/)
+![Python](https://img.shields.io/badge/-Python-3C76A3?style=flat-square&logo=python&logoColor=white&link=https://github.com/Jackeriss/)
+![Java](https://img.shields.io/badge/-Java-DE1F27?style=flat-square&logo=java&logoColor=white&link=https://github.com/Jackeriss/)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&link=https://github.com/Jackeriss/)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Jackeriss/)
+![MySQL](https://img.shields.io/badge/-MySQL-0F768E?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Jackeriss/)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&link=https://github.com/Jackeriss/)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white&link=https://github.com/Jackeriss/)
 ![Solr](https://img.shields.io/badge/-Solr-D9411E?style=flat-square&logo=apache-solr&logoColor=white&link=https://github.com/Jackeriss/)
@@ -30,7 +30,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white&link=https://github.com/Jackeriss/)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white&link=https://github.com/Jackeriss/)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white&link=https://github.com/Jackeriss/)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&link=https://github.com/Jackeriss/)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white&link=https://github.com/Jackeriss/)
 
 #### Projects
 [🦊 Cupfox](https://www.cupfox.com)  
