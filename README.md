@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackeriss&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
-### Backend Stack
+### 技术栈
 
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -11,20 +11,13 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Solr](https://img.shields.io/badge/-Solr-192133?style=flat-square&logo=apache-solr&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-192133?style=flat-square&logo=graphql&logoColor=white)
-
-### Frontend Stack
-
 ![HTML5](https://img.shields.io/badge/-HTML5-192133?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-192133?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-192133?style=flat-square&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-192133?style=flat-square&logo=next.js&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-192133?style=flat-square&logo=apollo-graphql&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-192133?style=flat-square&logo=gulp&logoColor=white)
-
-### Tools
-
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-192133?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-192133?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-192133?style=flat-square&logo=google-chrome&logoColor=white)
