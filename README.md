@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackeriss&show_icons=true&hide_border=false&bg_color=192133&border_color=324560&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackeriss&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 ### Backend Stack
 
