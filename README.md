@@ -24,8 +24,3 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-192133?style=flat-square&logo=insomnia&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-192133?style=flat-square&logo=sentry&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-192133?style=flat-square&logo=figma&logoColor=white)
-
-### 项目
-[![Cupfox](https://img.shields.io/badge/Cupfox-192133?style=flat-square)](https://www.cupfox.com)
-[![One Scan](https://img.shields.io/badge/One%20Scan-192133?style=flat-square)](https://one-scan.jackeriss.com)
-[![Email My PC](https://img.shields.io/badge/Email%20My%20PC-192133?style=flat-square)](https://jackeriss.github.io/email_my_pc)
