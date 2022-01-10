@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-192133?style=flat-square&logo=fastapi&logoColor=white)
+![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-192133?style=flat-square&logo=aiohttp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
