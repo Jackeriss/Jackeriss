@@ -11,17 +11,11 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-192133?style=flat-square&logo=Next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-192133?style=flat-square&logo=GraphQL&logoColor=white)
-![Apollo Graphql](https://img.shields.io/badge/-Apollo%20Graphql-192133?style=flat-square&logo=Apollo%20Graphql&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-192133?style=flat-square&logo=Ant%20Design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-192133?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-192133?style=flat-square&logo=Yarn&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-192133?style=flat-square&logo=Gulp&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-192133?style=flat-square&logo=PM2&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-192133?style=flat-square&logo=Google%20Analytics&logoColor=white)
-![jsDelivr](https://img.shields.io/badge/-jsDelivr-192133?style=flat-square&logo=jsDelivr&logoColor=white)
-![Let’s Encrypt](https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-192133?style=flat-square&logo=Let%E2%80%99s%20Encrypt&logoColor=white)
 
 ![macOS](https://img.shields.io/badge/-macOS-192133?style=flat-square&logo=macOS&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-192133?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
