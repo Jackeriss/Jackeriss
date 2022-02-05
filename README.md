@@ -15,6 +15,7 @@
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=React&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-192133?style=flat-square)
 ![Arco Design](https://img.shields.io/badge/-Arco%20Design-192133?style=flat-square)
+![Ant Design Chart](https://img.shields.io/badge/-Ant%20Design%20Chart-192133?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-192133?style=flat-square&logo=GraphQL&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-192133?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-192133?style=flat-square&logo=Yarn&logoColor=white)
