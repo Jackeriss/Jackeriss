@@ -1,12 +1,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackeriss&include_all_commits=true&count_private-true&custom_title=Jackeriss'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white)
+![APScheduler](https://img.shields.io/badge/-APScheduler-192133?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-192133?style=flat-square&logo=FastAPI&logoColor=white)
+![Strawberry](https://img.shields.io/badge/-Strawberry-192133?style=flat-square)
 ![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-192133?style=flat-square&logo=AIOHTTP&logoColor=white)
+![Poetry](https://img.shields.io/badge/-Poetry-192133?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=Redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=Elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-Kafka&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-192133?style=flat-square&logo=Nginx&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=TypeScript&logoColor=white)
@@ -16,10 +18,3 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-192133?style=flat-square&logo=Yarn&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-192133?style=flat-square&logo=Gulp&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-192133?style=flat-square&logo=PM2&logoColor=white)
-
-![macOS](https://img.shields.io/badge/-macOS-192133?style=flat-square&logo=macOS&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-192133?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![iTerm2](https://img.shields.io/badge/-iTerm2-192133?style=flat-square&logo=iterm2&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-192133?style=flat-square&logo=insomnia&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-192133?style=flat-square&logo=google-chrome&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-192133?style=flat-square&logo=figma&logoColor=white)
