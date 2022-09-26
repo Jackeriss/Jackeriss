@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackeriss&include_all_commits=true&count_private-true&custom_title=Jackeriss'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
+## Backend
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-192133?style=flat-square&logo=FastAPI&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/-APScheduler-192133?style=flat-square&logo=PyPI&logoColor=white)
@@ -9,7 +8,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=Redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=Elasticsearch&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-192133?style=flat-square&logo=Nginx&logoColor=white)
-
+## Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=React&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-192133?style=flat-square&logo=Remix&logoColor=white)
@@ -19,7 +18,7 @@
 ![pnmp](https://img.shields.io/badge/-pnpm-192133?style=flat-square&logo=pnpm&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-192133?style=flat-square&logo=Gulp&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-192133?style=flat-square&logo=PM2&logoColor=white)
-
+## Dev tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-192133?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Warp](https://img.shields.io/badge/-Warp-192133?style=flat-square&logo=iterm2&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-192133?style=flat-square&logo=Insomnia&logoColor=white)
