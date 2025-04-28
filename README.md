@@ -1,11 +1,10 @@
 # Stack Share
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-192133?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-192133?style=flat-square&logo=FastAPI&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/-APScheduler-192133?style=flat-square&logo=PyPI&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-192133?style=flat-square&logo=PyPI&logoColor=white)
-![Rye](https://img.shields.io/badge/-Rye-192133?style=flat-square&logo=rye&logoColor=white)
+![uv](https://img.shields.io/badge/-uv-192133?style=flat-square&logo=uv&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=MySQL&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=Elasticsearch&logoColor=white)
@@ -15,6 +14,5 @@
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-192133?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/-HeroUI-192133?style=flat-square&logo=nextui&logoColor=white)
-![Semi Design](https://img.shields.io/badge/-Semi%20Design-192133?style=flat-square&logo=TikTok&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-192133?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-192133?style=flat-square&logo=PM2&logoColor=white)
